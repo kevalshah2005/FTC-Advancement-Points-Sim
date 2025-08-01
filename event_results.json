@@ -1,0 +1,3234 @@
+{
+  "2901": {
+    "age": 16,
+    "events": [
+      {
+        "eventCode": "USNCROQ",
+        "type": "2",
+        "date": "2025-01-18T00:00:00",
+        "num_teams": 24,
+        "rank": 19,
+        "alliance": null,
+        "awards": [
+          "Connect Award"
+        ]
+      },
+      {
+        "eventCode": "USNCRSQ",
+        "type": "2",
+        "date": "2025-02-08T00:00:00",
+        "num_teams": 10,
+        "rank": 9,
+        "alliance": null,
+        "awards": [
+          "Inspire Award"
+        ]
+      },
+      {
+        "eventCode": "USNCCMP",
+        "type": "4",
+        "date": "2025-02-16T00:00:00",
+        "num_teams": 36,
+        "rank": 33,
+        "alliance": null,
+        "awards": [
+          "Innovate Award sponsored by RTX"
+        ]
+      }
+    ]
+  },
+  "5064": {
+    "age": 13,
+    "events": [
+      {
+        "eventCode": "USNCROQ",
+        "type": "2",
+        "date": "2025-01-18T00:00:00",
+        "num_teams": 24,
+        "rank": 2,
+        "alliance": 2,
+        "awards": [
+          "Inspire Award 2nd Place",
+          "Winning Alliance - Captain"
+        ]
+      },
+      {
+        "eventCode": "USNCSAQ1",
+        "type": "2",
+        "date": "2025-02-08T00:00:00",
+        "num_teams": 19,
+        "rank": 4,
+        "alliance": 1,
+        "awards": [
+          "Inspire Award",
+          "Winning Alliance - 1st Team Selected"
+        ]
+      },
+      {
+        "eventCode": "USNCCMP",
+        "type": "4",
+        "date": "2025-02-16T00:00:00",
+        "num_teams": 36,
+        "rank": 3,
+        "alliance": 3,
+        "awards": [
+          "Inspire Award 2nd Place",
+          "Dean's List Finalists"
+        ]
+      }
+    ]
+  },
+  "6078": {
+    "age": 12,
+    "events": [
+      {
+        "eventCode": "USNCROQ",
+        "type": "2",
+        "date": "2025-01-18T00:00:00",
+        "num_teams": 24,
+        "rank": 3,
+        "alliance": 2,
+        "awards": [
+          "Winning Alliance - 1st Team Selected",
+          "Motivate Award"
+        ]
+      },
+      {
+        "eventCode": "USNCSAQ2",
+        "type": "2",
+        "date": "2025-02-09T00:00:00",
+        "num_teams": 16,
+        "rank": 14,
+        "alliance": null,
+        "awards": [
+          "Inspire Award 2nd Place"
+        ]
+      },
+      {
+        "eventCode": "USNCCMP",
+        "type": "4",
+        "date": "2025-02-16T00:00:00",
+        "num_teams": 36,
+        "rank": 16,
+        "alliance": null,
+        "awards": [
+          "Inspire Award 3rd Place",
+          "Dean's List Finalists"
+        ]
+      }
+    ]
+  },
+  "7105": {
+    "age": 11,
+    "events": [
+      {
+        "eventCode": "USNCROQ",
+        "type": "2",
+        "date": "2025-01-18T00:00:00",
+        "num_teams": 24,
+        "rank": 9,
+        "alliance": 5,
+        "awards": [
+          "Inspire Award"
+        ]
+      },
+      {
+        "eventCode": "USNCCMP",
+        "type": "4",
+        "date": "2025-02-16T00:00:00",
+        "num_teams": 36,
+        "rank": 31,
+        "alliance": null,
+        "awards": [
+          "Motivate Award 2nd Place"
+        ]
+      }
+    ]
+  },
+  "9021": {
+    "age": 10,
+    "events": [
+      {
+        "eventCode": "USNCROQ",
+        "type": "2",
+        "date": "2025-01-18T00:00:00",
+        "num_teams": 24,
+        "rank": 12,
+        "alliance": null,
+        "awards": []
+      },
+      {
+        "eventCode": "USNCSAQ2",
+        "type": "2",
+        "date": "2025-02-09T00:00:00",
+        "num_teams": 16,
+        "rank": 16,
+        "alliance": null,
+        "awards": [
+          "Connect Award"
+        ]
+      }
+    ]
+  },
+  "9076": {
+    "age": 10,
+    "events": [
+      {
+        "eventCode": "USNCROQ",
+        "type": "2",
+        "date": "2025-01-18T00:00:00",
+        "num_teams": 24,
+        "rank": 24,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "9581": {
+    "age": 10,
+    "events": [
+      {
+        "eventCode": "USNCROQ",
+        "type": "2",
+        "date": "2025-01-18T00:00:00",
+        "num_teams": 24,
+        "rank": 18,
+        "alliance": null,
+        "awards": []
+      },
+      {
+        "eventCode": "USNCKIQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 16,
+        "rank": 4,
+        "alliance": 4,
+        "awards": []
+      }
+    ]
+  },
+  "11588": {
+    "age": 8,
+    "events": [
+      {
+        "eventCode": "USNCROQ",
+        "type": "2",
+        "date": "2025-01-18T00:00:00",
+        "num_teams": 24,
+        "rank": 16,
+        "alliance": null,
+        "awards": [
+          "Think Award 2nd Place"
+        ]
+      },
+      {
+        "eventCode": "USNCRSQ",
+        "type": "2",
+        "date": "2025-02-08T00:00:00",
+        "num_teams": 10,
+        "rank": 4,
+        "alliance": null,
+        "awards": [
+          "Motivate Award"
+        ]
+      }
+    ]
+  },
+  "12010": {
+    "age": 8,
+    "events": [
+      {
+        "eventCode": "USNCROQ",
+        "type": "2",
+        "date": "2025-01-18T00:00:00",
+        "num_teams": 24,
+        "rank": 23,
+        "alliance": null,
+        "awards": [
+          "Innovate Award sponsored by RTX 2nd Place"
+        ]
+      },
+      {
+        "eventCode": "USNCWSQ1",
+        "type": "2",
+        "date": "2025-01-25T00:00:00",
+        "num_teams": 23,
+        "rank": 14,
+        "alliance": null,
+        "awards": [
+          "Think Award 2nd Place"
+        ]
+      }
+    ]
+  },
+  "16072": {
+    "age": 6,
+    "events": [
+      {
+        "eventCode": "USNCROQ",
+        "type": "2",
+        "date": "2025-01-18T00:00:00",
+        "num_teams": 24,
+        "rank": 4,
+        "alliance": 3,
+        "awards": [
+          "Control Award"
+        ]
+      },
+      {
+        "eventCode": "USNCGRQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 24,
+        "rank": 3,
+        "alliance": 2,
+        "awards": [
+          "Inspire Award"
+        ]
+      },
+      {
+        "eventCode": "USNCCMP",
+        "type": "4",
+        "date": "2025-02-16T00:00:00",
+        "num_teams": 36,
+        "rank": 21,
+        "alliance": null,
+        "awards": [
+          "Compass Award 3rd Place"
+        ]
+      }
+    ]
+  },
+  "19921": {
+    "age": 3,
+    "events": [
+      {
+        "eventCode": "USNCROQ",
+        "type": "2",
+        "date": "2025-01-18T00:00:00",
+        "num_teams": 24,
+        "rank": 11,
+        "alliance": 6,
+        "awards": [
+          "Design Award"
+        ]
+      },
+      {
+        "eventCode": "USNCGRQ3",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 23,
+        "rank": 7,
+        "alliance": 5,
+        "awards": [
+          "Inspire Award 3rd Place"
+        ]
+      },
+      {
+        "eventCode": "USNCCMP",
+        "type": "4",
+        "date": "2025-02-16T00:00:00",
+        "num_teams": 36,
+        "rank": 26,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "19971": {
+    "age": 3,
+    "events": [
+      {
+        "eventCode": "USNCROQ",
+        "type": "2",
+        "date": "2025-01-18T00:00:00",
+        "num_teams": 24,
+        "rank": 6,
+        "alliance": 3,
+        "awards": []
+      },
+      {
+        "eventCode": "USNCGRQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 24,
+        "rank": 13,
+        "alliance": 4,
+        "awards": [
+          "Design Award 2nd Place"
+        ]
+      }
+    ]
+  },
+  "21501": {
+    "age": 2,
+    "events": [
+      {
+        "eventCode": "USNCROQ",
+        "type": "2",
+        "date": "2025-01-18T00:00:00",
+        "num_teams": 24,
+        "rank": 21,
+        "alliance": null,
+        "awards": []
+      },
+      {
+        "eventCode": "USNCGRQ1",
+        "type": "2",
+        "date": "2025-02-02T00:00:00",
+        "num_teams": 21,
+        "rank": 6,
+        "alliance": 4,
+        "awards": [
+          "Connect Award 2nd Place"
+        ]
+      }
+    ]
+  },
+  "21502": {
+    "age": 2,
+    "events": [
+      {
+        "eventCode": "USNCROQ",
+        "type": "2",
+        "date": "2025-01-18T00:00:00",
+        "num_teams": 24,
+        "rank": 1,
+        "alliance": 1,
+        "awards": [
+          "Inspire Award 3rd Place",
+          "Finalist Alliance - Captain"
+        ]
+      },
+      {
+        "eventCode": "USNCGRQ1",
+        "type": "2",
+        "date": "2025-02-02T00:00:00",
+        "num_teams": 21,
+        "rank": 3,
+        "alliance": 2,
+        "awards": [
+          "Inspire Award 2nd Place",
+          "Finalist Alliance - Captain"
+        ]
+      },
+      {
+        "eventCode": "USNCCMP",
+        "type": "4",
+        "date": "2025-02-16T00:00:00",
+        "num_teams": 36,
+        "rank": 10,
+        "alliance": 2,
+        "awards": [
+          "Finalist Alliance - 1st Team Selected",
+          "Design Award"
+        ]
+      }
+    ]
+  },
+  "21836": {
+    "age": 2,
+    "events": [
+      {
+        "eventCode": "USNCROQ",
+        "type": "2",
+        "date": "2025-01-18T00:00:00",
+        "num_teams": 24,
+        "rank": 8,
+        "alliance": 1,
+        "awards": [
+          "Finalist Alliance - 1st Team Selected",
+          "Innovate Award sponsored by RTX"
+        ]
+      },
+      {
+        "eventCode": "USNCGRQ3",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 23,
+        "rank": 1,
+        "alliance": 1,
+        "awards": [
+          "Winning Alliance - Captain",
+          "Innovate Award sponsored by RTX"
+        ]
+      },
+      {
+        "eventCode": "USNCCMP",
+        "type": "4",
+        "date": "2025-02-16T00:00:00",
+        "num_teams": 36,
+        "rank": 1,
+        "alliance": 1,
+        "awards": [
+          "Winning Alliance - Captain",
+          "Think Award 2nd Place"
+        ]
+      }
+    ]
+  },
+  "22377": {
+    "age": 2,
+    "events": [
+      {
+        "eventCode": "USNCROQ",
+        "type": "2",
+        "date": "2025-01-18T00:00:00",
+        "num_teams": 24,
+        "rank": 15,
+        "alliance": null,
+        "awards": [
+          "Think Award"
+        ]
+      },
+      {
+        "eventCode": "USNCGRQ1",
+        "type": "2",
+        "date": "2025-02-02T00:00:00",
+        "num_teams": 21,
+        "rank": 14,
+        "alliance": 4,
+        "awards": [
+          "Inspire Award"
+        ]
+      },
+      {
+        "eventCode": "USNCCMP",
+        "type": "4",
+        "date": "2025-02-16T00:00:00",
+        "num_teams": 36,
+        "rank": 2,
+        "alliance": 2,
+        "awards": [
+          "Inspire Award",
+          "Finalist Alliance - Captain"
+        ]
+      }
+    ]
+  },
+  "22733": {
+    "age": 2,
+    "events": [
+      {
+        "eventCode": "USNCROQ",
+        "type": "2",
+        "date": "2025-01-18T00:00:00",
+        "num_teams": 24,
+        "rank": 7,
+        "alliance": 5,
+        "awards": [
+          "Design Award 2nd Place"
+        ]
+      },
+      {
+        "eventCode": "USNCKIQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 16,
+        "rank": 13,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "23249": {
+    "age": 1,
+    "events": [
+      {
+        "eventCode": "USNCROQ",
+        "type": "2",
+        "date": "2025-01-18T00:00:00",
+        "num_teams": 24,
+        "rank": 13,
+        "alliance": 6,
+        "awards": []
+      },
+      {
+        "eventCode": "USNCFAQ",
+        "type": "2",
+        "date": "2025-02-09T00:00:00",
+        "num_teams": 13,
+        "rank": 9,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "23520": {
+    "age": 1,
+    "events": [
+      {
+        "eventCode": "USNCROQ",
+        "type": "2",
+        "date": "2025-01-18T00:00:00",
+        "num_teams": 24,
+        "rank": 14,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "23532": {
+    "age": 1,
+    "events": [
+      {
+        "eventCode": "USNCROQ",
+        "type": "2",
+        "date": "2025-01-18T00:00:00",
+        "num_teams": 24,
+        "rank": 22,
+        "alliance": null,
+        "awards": []
+      },
+      {
+        "eventCode": "USNCGRQ3",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 23,
+        "rank": 6,
+        "alliance": 4,
+        "awards": [
+          "Design Award"
+        ]
+      }
+    ]
+  },
+  "23680": {
+    "age": 1,
+    "events": [
+      {
+        "eventCode": "USNCROQ",
+        "type": "2",
+        "date": "2025-01-18T00:00:00",
+        "num_teams": 24,
+        "rank": 10,
+        "alliance": 4,
+        "awards": []
+      },
+      {
+        "eventCode": "USNCSAQ2",
+        "type": "2",
+        "date": "2025-02-09T00:00:00",
+        "num_teams": 16,
+        "rank": 4,
+        "alliance": 4,
+        "awards": [
+          "Design Award"
+        ]
+      }
+    ]
+  },
+  "26245": {
+    "age": 0,
+    "events": [
+      {
+        "eventCode": "USNCROQ",
+        "type": "2",
+        "date": "2025-01-18T00:00:00",
+        "num_teams": 24,
+        "rank": 20,
+        "alliance": null,
+        "awards": [
+          "Connect Award 2nd Place"
+        ]
+      },
+      {
+        "eventCode": "USNCSAQ1",
+        "type": "2",
+        "date": "2025-02-08T00:00:00",
+        "num_teams": 19,
+        "rank": 19,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "26553": {
+    "age": 0,
+    "events": [
+      {
+        "eventCode": "USNCROQ",
+        "type": "2",
+        "date": "2025-01-18T00:00:00",
+        "num_teams": 24,
+        "rank": 5,
+        "alliance": 4,
+        "awards": []
+      },
+      {
+        "eventCode": "USNCSAQ2",
+        "type": "2",
+        "date": "2025-02-09T00:00:00",
+        "num_teams": 16,
+        "rank": 8,
+        "alliance": 4,
+        "awards": []
+      }
+    ]
+  },
+  "27087": {
+    "age": 0,
+    "events": [
+      {
+        "eventCode": "USNCROQ",
+        "type": "2",
+        "date": "2025-01-18T00:00:00",
+        "num_teams": 24,
+        "rank": 17,
+        "alliance": null,
+        "awards": [
+          "Motivate Award 2nd Place"
+        ]
+      }
+    ]
+  },
+  "2827": {
+    "age": 16,
+    "events": [
+      {
+        "eventCode": "USNCWSQ1",
+        "type": "2",
+        "date": "2025-01-25T00:00:00",
+        "num_teams": 23,
+        "rank": 4,
+        "alliance": 3,
+        "awards": [
+          "Inspire Award 2nd Place"
+        ]
+      },
+      {
+        "eventCode": "USNCGRQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 24,
+        "rank": 1,
+        "alliance": 1,
+        "awards": [
+          "Winning Alliance - Captain",
+          "Innovate Award sponsored by RTX"
+        ]
+      },
+      {
+        "eventCode": "USNCCMP",
+        "type": "4",
+        "date": "2025-02-16T00:00:00",
+        "num_teams": 36,
+        "rank": 6,
+        "alliance": 3,
+        "awards": [
+          "Design Award 2nd Place"
+        ]
+      }
+    ]
+  },
+  "3587": {
+    "age": 15,
+    "events": [
+      {
+        "eventCode": "USNCWSQ1",
+        "type": "2",
+        "date": "2025-01-25T00:00:00",
+        "num_teams": 23,
+        "rank": 9,
+        "alliance": 3,
+        "awards": [
+          "Inspire Award 3rd Place"
+        ]
+      },
+      {
+        "eventCode": "USNCGRQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 24,
+        "rank": 17,
+        "alliance": null,
+        "awards": [
+          "Inspire Award 3rd Place"
+        ]
+      },
+      {
+        "eventCode": "USNCCMP",
+        "type": "4",
+        "date": "2025-02-16T00:00:00",
+        "num_teams": 36,
+        "rank": 19,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "5309": {
+    "age": 13,
+    "events": [
+      {
+        "eventCode": "USNCWSQ1",
+        "type": "2",
+        "date": "2025-01-25T00:00:00",
+        "num_teams": 23,
+        "rank": 1,
+        "alliance": 1,
+        "awards": [
+          "Winning Alliance - Captain",
+          "Control Award"
+        ]
+      },
+      {
+        "eventCode": "USNCSHQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 21,
+        "rank": 1,
+        "alliance": 1,
+        "awards": [
+          "Finalist Alliance - Captain",
+          "Control Award"
+        ]
+      },
+      {
+        "eventCode": "USNCCMP",
+        "type": "4",
+        "date": "2025-02-16T00:00:00",
+        "num_teams": 36,
+        "rank": 13,
+        "alliance": 5,
+        "awards": []
+      }
+    ]
+  },
+  "5459": {
+    "age": 13,
+    "events": [
+      {
+        "eventCode": "USNCWSQ1",
+        "type": "2",
+        "date": "2025-01-25T00:00:00",
+        "num_teams": 23,
+        "rank": 13,
+        "alliance": 4,
+        "awards": [
+          "Innovate Award sponsored by RTX"
+        ]
+      },
+      {
+        "eventCode": "USNCGRQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 24,
+        "rank": 10,
+        "alliance": 6,
+        "awards": [
+          "Design Award"
+        ]
+      }
+    ]
+  },
+  "8300": {
+    "age": 11,
+    "events": [
+      {
+        "eventCode": "USNCWSQ1",
+        "type": "2",
+        "date": "2025-01-25T00:00:00",
+        "num_teams": 23,
+        "rank": 21,
+        "alliance": null,
+        "awards": [
+          "Connect Award"
+        ]
+      },
+      {
+        "eventCode": "USNCSHQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 21,
+        "rank": 7,
+        "alliance": 5,
+        "awards": [
+          "Inspire Award 3rd Place"
+        ]
+      },
+      {
+        "eventCode": "USNCCMP",
+        "type": "4",
+        "date": "2025-02-16T00:00:00",
+        "num_teams": 36,
+        "rank": 30,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "9990": {
+    "age": 9,
+    "events": [
+      {
+        "eventCode": "USNCWSQ1",
+        "type": "2",
+        "date": "2025-01-25T00:00:00",
+        "num_teams": 23,
+        "rank": 3,
+        "alliance": 2,
+        "awards": [
+          "Finalist Alliance - Captain"
+        ]
+      },
+      {
+        "eventCode": "USNCGRQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 24,
+        "rank": 2,
+        "alliance": 1,
+        "awards": [
+          "Winning Alliance - 1st Team Selected",
+          "Motivate Award"
+        ]
+      },
+      {
+        "eventCode": "USNCCMP",
+        "type": "4",
+        "date": "2025-02-16T00:00:00",
+        "num_teams": 36,
+        "rank": 23,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "14641": {
+    "age": 6,
+    "events": [
+      {
+        "eventCode": "USNCWSQ1",
+        "type": "2",
+        "date": "2025-01-25T00:00:00",
+        "num_teams": 23,
+        "rank": 20,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "17346": {
+    "age": 5,
+    "events": [
+      {
+        "eventCode": "USNCWSQ1",
+        "type": "2",
+        "date": "2025-01-25T00:00:00",
+        "num_teams": 23,
+        "rank": 12,
+        "alliance": null,
+        "awards": [
+          "Inspire Award"
+        ]
+      },
+      {
+        "eventCode": "USNCSHQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 21,
+        "rank": 14,
+        "alliance": 2,
+        "awards": [
+          "Winning Alliance - 1st Team Selected",
+          "Think Award"
+        ]
+      },
+      {
+        "eventCode": "USNCCMP",
+        "type": "4",
+        "date": "2025-02-16T00:00:00",
+        "num_teams": 36,
+        "rank": 15,
+        "alliance": null,
+        "awards": [
+          "Judges' Choice Award"
+        ]
+      }
+    ]
+  },
+  "20056": {
+    "age": 3,
+    "events": [
+      {
+        "eventCode": "USNCWSQ1",
+        "type": "2",
+        "date": "2025-01-25T00:00:00",
+        "num_teams": 23,
+        "rank": 17,
+        "alliance": null,
+        "awards": [
+          "Design Award"
+        ]
+      },
+      {
+        "eventCode": "USNCSHQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 21,
+        "rank": 16,
+        "alliance": null,
+        "awards": [
+          "Innovate Award sponsored by RTX"
+        ]
+      }
+    ]
+  },
+  "20765": {
+    "age": 3,
+    "events": [
+      {
+        "eventCode": "USNCWSQ1",
+        "type": "2",
+        "date": "2025-01-25T00:00:00",
+        "num_teams": 23,
+        "rank": 10,
+        "alliance": 5,
+        "awards": []
+      }
+    ]
+  },
+  "20766": {
+    "age": 3,
+    "events": [
+      {
+        "eventCode": "USNCWSQ1",
+        "type": "2",
+        "date": "2025-01-25T00:00:00",
+        "num_teams": 23,
+        "rank": 6,
+        "alliance": 4,
+        "awards": []
+      }
+    ]
+  },
+  "22289": {
+    "age": 2,
+    "events": [
+      {
+        "eventCode": "USNCWSQ1",
+        "type": "2",
+        "date": "2025-01-25T00:00:00",
+        "num_teams": 23,
+        "rank": 22,
+        "alliance": null,
+        "awards": [
+          "Connect Award 2nd Place"
+        ]
+      }
+    ]
+  },
+  "23415": {
+    "age": 1,
+    "events": [
+      {
+        "eventCode": "USNCWSQ1",
+        "type": "2",
+        "date": "2025-01-25T00:00:00",
+        "num_teams": 23,
+        "rank": 11,
+        "alliance": 6,
+        "awards": [
+          "Motivate Award 2nd Place"
+        ]
+      },
+      {
+        "eventCode": "USNCSHQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 21,
+        "rank": 3,
+        "alliance": 3,
+        "awards": []
+      }
+    ]
+  },
+  "24063": {
+    "age": 1,
+    "events": [
+      {
+        "eventCode": "USNCWSQ1",
+        "type": "2",
+        "date": "2025-01-25T00:00:00",
+        "num_teams": 23,
+        "rank": 7,
+        "alliance": 5,
+        "awards": []
+      },
+      {
+        "eventCode": "USNCSHQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 21,
+        "rank": 17,
+        "alliance": null,
+        "awards": [
+          "Connect Award 2nd Place"
+        ]
+      }
+    ]
+  },
+  "24064": {
+    "age": 1,
+    "events": [
+      {
+        "eventCode": "USNCWSQ1",
+        "type": "2",
+        "date": "2025-01-25T00:00:00",
+        "num_teams": 23,
+        "rank": 2,
+        "alliance": 1,
+        "awards": [
+          "Winning Alliance - 1st Team Selected",
+          "Think Award"
+        ]
+      },
+      {
+        "eventCode": "USNCGRQ1",
+        "type": "2",
+        "date": "2025-02-02T00:00:00",
+        "num_teams": 21,
+        "rank": 2,
+        "alliance": 1,
+        "awards": [
+          "Inspire Award 3rd Place",
+          "Winning Alliance - 1st Team Selected"
+        ]
+      },
+      {
+        "eventCode": "USNCCMP",
+        "type": "4",
+        "date": "2025-02-16T00:00:00",
+        "num_teams": 36,
+        "rank": 4,
+        "alliance": 1,
+        "awards": [
+          "Winning Alliance - 1st Team Selected"
+        ]
+      }
+    ]
+  },
+  "24078": {
+    "age": 1,
+    "events": [
+      {
+        "eventCode": "USNCWSQ1",
+        "type": "2",
+        "date": "2025-01-25T00:00:00",
+        "num_teams": 23,
+        "rank": 8,
+        "alliance": 6,
+        "awards": [
+          "Innovate Award sponsored by RTX 2nd Place"
+        ]
+      },
+      {
+        "eventCode": "USNCSAQ2",
+        "type": "2",
+        "date": "2025-02-09T00:00:00",
+        "num_teams": 16,
+        "rank": 7,
+        "alliance": 3,
+        "awards": [
+          "Winning Alliance - 1st Team Selected",
+          "Motivate Award"
+        ]
+      },
+      {
+        "eventCode": "USNCCMP",
+        "type": "4",
+        "date": "2025-02-16T00:00:00",
+        "num_teams": 36,
+        "rank": 17,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "24432": {
+    "age": 1,
+    "events": [
+      {
+        "eventCode": "USNCWSQ1",
+        "type": "2",
+        "date": "2025-01-25T00:00:00",
+        "num_teams": 23,
+        "rank": 19,
+        "alliance": null,
+        "awards": [
+          "Motivate Award"
+        ]
+      },
+      {
+        "eventCode": "USNCKIQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 16,
+        "rank": 3,
+        "alliance": 3,
+        "awards": [
+          "Inspire Award 2nd Place"
+        ]
+      }
+    ]
+  },
+  "25291": {
+    "age": 1,
+    "events": [
+      {
+        "eventCode": "USNCWSQ1",
+        "type": "2",
+        "date": "2025-01-25T00:00:00",
+        "num_teams": 23,
+        "rank": 16,
+        "alliance": null,
+        "awards": [
+          "Design Award 2nd Place"
+        ]
+      },
+      {
+        "eventCode": "USNCRSQ",
+        "type": "2",
+        "date": "2025-02-08T00:00:00",
+        "num_teams": 10,
+        "rank": 5,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "25739": {
+    "age": 0,
+    "events": [
+      {
+        "eventCode": "USNCWSQ1",
+        "type": "2",
+        "date": "2025-01-25T00:00:00",
+        "num_teams": 23,
+        "rank": 15,
+        "alliance": null,
+        "awards": []
+      },
+      {
+        "eventCode": "USNCGRQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 24,
+        "rank": 9,
+        "alliance": 6,
+        "awards": []
+      }
+    ]
+  },
+  "25863": {
+    "age": 0,
+    "events": [
+      {
+        "eventCode": "USNCWSQ1",
+        "type": "2",
+        "date": "2025-01-25T00:00:00",
+        "num_teams": 23,
+        "rank": 5,
+        "alliance": 2,
+        "awards": [
+          "Finalist Alliance - 1st Team Selected"
+        ]
+      },
+      {
+        "eventCode": "USNCRSQ",
+        "type": "2",
+        "date": "2025-02-08T00:00:00",
+        "num_teams": 10,
+        "rank": 1,
+        "alliance": 1,
+        "awards": [
+          "Winning Alliance - Captain"
+        ]
+      },
+      {
+        "eventCode": "USNCCMP",
+        "type": "4",
+        "date": "2025-02-16T00:00:00",
+        "num_teams": 36,
+        "rank": 22,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "26358": {
+    "age": 0,
+    "events": [
+      {
+        "eventCode": "USNCWSQ1",
+        "type": "2",
+        "date": "2025-01-25T00:00:00",
+        "num_teams": 23,
+        "rank": 23,
+        "alliance": null,
+        "awards": [
+          "Control Award 2nd Place"
+        ]
+      },
+      {
+        "eventCode": "USNCRSQ",
+        "type": "2",
+        "date": "2025-02-08T00:00:00",
+        "num_teams": 10,
+        "rank": 8,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "28013": {
+    "age": 0,
+    "events": [
+      {
+        "eventCode": "USNCWSQ1",
+        "type": "2",
+        "date": "2025-01-25T00:00:00",
+        "num_teams": 23,
+        "rank": 18,
+        "alliance": null,
+        "awards": []
+      },
+      {
+        "eventCode": "USNCSAQ2",
+        "type": "2",
+        "date": "2025-02-09T00:00:00",
+        "num_teams": 16,
+        "rank": 13,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "668": {
+    "age": 17,
+    "events": [
+      {
+        "eventCode": "USNCGRQ3",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 23,
+        "rank": 8,
+        "alliance": 6,
+        "awards": [
+          "Motivate Award"
+        ]
+      },
+      {
+        "eventCode": "USNCGRQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 24,
+        "rank": 12,
+        "alliance": null,
+        "awards": [
+          "Think Award 2nd Place"
+        ]
+      }
+    ]
+  },
+  "4622": {
+    "age": 14,
+    "events": [
+      {
+        "eventCode": "USNCGRQ3",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 23,
+        "rank": 13,
+        "alliance": null,
+        "awards": []
+      },
+      {
+        "eventCode": "USNCGRQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 24,
+        "rank": 23,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "7989": {
+    "age": 11,
+    "events": [
+      {
+        "eventCode": "USNCGRQ3",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 23,
+        "rank": 23,
+        "alliance": null,
+        "awards": [
+          "Connect Award 2nd Place"
+        ]
+      },
+      {
+        "eventCode": "USNCSHQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 21,
+        "rank": 20,
+        "alliance": null,
+        "awards": [
+          "Motivate Award"
+        ]
+      }
+    ]
+  },
+  "8569": {
+    "age": 10,
+    "events": [
+      {
+        "eventCode": "USNCGRQ3",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 23,
+        "rank": 17,
+        "alliance": 5,
+        "awards": [
+          "Inspire Award 2nd Place"
+        ]
+      },
+      {
+        "eventCode": "USNCFAQ",
+        "type": "2",
+        "date": "2025-02-09T00:00:00",
+        "num_teams": 13,
+        "rank": 11,
+        "alliance": null,
+        "awards": [
+          "Inspire Award 2nd Place"
+        ]
+      },
+      {
+        "eventCode": "USNCCMP",
+        "type": "4",
+        "date": "2025-02-16T00:00:00",
+        "num_teams": 36,
+        "rank": 32,
+        "alliance": null,
+        "awards": [
+          "Connect Award"
+        ]
+      }
+    ]
+  },
+  "9993": {
+    "age": 9,
+    "events": [
+      {
+        "eventCode": "USNCGRQ3",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 23,
+        "rank": 12,
+        "alliance": null,
+        "awards": []
+      },
+      {
+        "eventCode": "USNCGRQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 24,
+        "rank": 18,
+        "alliance": null,
+        "awards": [
+          "Motivate Award 2nd Place"
+        ]
+      }
+    ]
+  },
+  "11528": {
+    "age": 8,
+    "events": [
+      {
+        "eventCode": "USNCGRQ3",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 23,
+        "rank": 15,
+        "alliance": null,
+        "awards": [
+          "Control Award 2nd Place"
+        ]
+      },
+      {
+        "eventCode": "USNCKIQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 16,
+        "rank": 15,
+        "alliance": null,
+        "awards": [
+          "Innovate Award sponsored by RTX"
+        ]
+      }
+    ]
+  },
+  "12828": {
+    "age": 7,
+    "events": [
+      {
+        "eventCode": "USNCGRQ3",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 23,
+        "rank": 9,
+        "alliance": 4,
+        "awards": []
+      },
+      {
+        "eventCode": "USNCSAQ2",
+        "type": "2",
+        "date": "2025-02-09T00:00:00",
+        "num_teams": 16,
+        "rank": 15,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "15707": {
+    "age": 6,
+    "events": [
+      {
+        "eventCode": "USNCGRQ3",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 23,
+        "rank": 16,
+        "alliance": null,
+        "awards": [
+          "Design Award 2nd Place"
+        ]
+      },
+      {
+        "eventCode": "USNCGRQ1",
+        "type": "2",
+        "date": "2025-02-02T00:00:00",
+        "num_teams": 21,
+        "rank": 21,
+        "alliance": null,
+        "awards": [
+          "Motivate Award 2nd Place"
+        ]
+      },
+      {
+        "eventCode": "USNCCMP",
+        "type": "4",
+        "date": "2025-02-16T00:00:00",
+        "num_teams": 36,
+        "rank": 36,
+        "alliance": null,
+        "awards": [
+          "Compass Award"
+        ]
+      }
+    ]
+  },
+  "21351": {
+    "age": 2,
+    "events": [
+      {
+        "eventCode": "USNCGRQ3",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 23,
+        "rank": 2,
+        "alliance": 1,
+        "awards": [
+          "Inspire Award",
+          "Winning Alliance - 1st Team Selected"
+        ]
+      },
+      {
+        "eventCode": "USNCCMP",
+        "type": "4",
+        "date": "2025-02-16T00:00:00",
+        "num_teams": 36,
+        "rank": 12,
+        "alliance": 6,
+        "awards": [
+          "Motivate Award",
+          "Dean's List Finalists"
+        ]
+      }
+    ]
+  },
+  "21401": {
+    "age": 2,
+    "events": [
+      {
+        "eventCode": "USNCGRQ3",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 23,
+        "rank": 10,
+        "alliance": 6,
+        "awards": []
+      },
+      {
+        "eventCode": "USNCSHQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 21,
+        "rank": 11,
+        "alliance": 6,
+        "awards": [
+          "Judges' Choice Award"
+        ]
+      }
+    ]
+  },
+  "21490": {
+    "age": 2,
+    "events": [
+      {
+        "eventCode": "USNCGRQ3",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 23,
+        "rank": 5,
+        "alliance": 3,
+        "awards": [
+          "Think Award 2nd Place"
+        ]
+      },
+      {
+        "eventCode": "USNCKIQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 16,
+        "rank": 8,
+        "alliance": 2,
+        "awards": [
+          "Finalist Alliance - 1st Team Selected",
+          "Connect Award"
+        ]
+      }
+    ]
+  },
+  "21601": {
+    "age": 2,
+    "events": [
+      {
+        "eventCode": "USNCGRQ3",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 23,
+        "rank": 21,
+        "alliance": null,
+        "awards": []
+      },
+      {
+        "eventCode": "USNCSHQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 21,
+        "rank": 8,
+        "alliance": 3,
+        "awards": []
+      }
+    ]
+  },
+  "21734": {
+    "age": 2,
+    "events": [
+      {
+        "eventCode": "USNCGRQ3",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 23,
+        "rank": 20,
+        "alliance": null,
+        "awards": [
+          "Connect Award"
+        ]
+      },
+      {
+        "eventCode": "USNCKIQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 16,
+        "rank": 12,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "23423": {
+    "age": 1,
+    "events": [
+      {
+        "eventCode": "USNCGRQ3",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 23,
+        "rank": 3,
+        "alliance": 2,
+        "awards": [
+          "Finalist Alliance - Captain",
+          "Think Award"
+        ]
+      },
+      {
+        "eventCode": "USNCKIQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 16,
+        "rank": 1,
+        "alliance": 1,
+        "awards": [
+          "Winning Alliance - Captain",
+          "Control Award"
+        ]
+      },
+      {
+        "eventCode": "USNCCMP",
+        "type": "4",
+        "date": "2025-02-16T00:00:00",
+        "num_teams": 36,
+        "rank": 29,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "23574": {
+    "age": 1,
+    "events": [
+      {
+        "eventCode": "USNCGRQ3",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 23,
+        "rank": 14,
+        "alliance": null,
+        "awards": [
+          "Innovate Award sponsored by RTX 2nd Place"
+        ]
+      },
+      {
+        "eventCode": "USNCSHQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 21,
+        "rank": 9,
+        "alliance": 5,
+        "awards": [
+          "Inspire Award 2nd Place"
+        ]
+      },
+      {
+        "eventCode": "USNCCMP",
+        "type": "4",
+        "date": "2025-02-16T00:00:00",
+        "num_teams": 36,
+        "rank": 28,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "23892": {
+    "age": 1,
+    "events": [
+      {
+        "eventCode": "USNCGRQ3",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 23,
+        "rank": 19,
+        "alliance": 3,
+        "awards": []
+      },
+      {
+        "eventCode": "USNCGRQ1",
+        "type": "2",
+        "date": "2025-02-02T00:00:00",
+        "num_teams": 21,
+        "rank": 10,
+        "alliance": 6,
+        "awards": [
+          "Innovate Award sponsored by RTX 2nd Place"
+        ]
+      }
+    ]
+  },
+  "24606": {
+    "age": 1,
+    "events": [
+      {
+        "eventCode": "USNCGRQ3",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 23,
+        "rank": 4,
+        "alliance": 2,
+        "awards": [
+          "Finalist Alliance - 1st Team Selected"
+        ]
+      },
+      {
+        "eventCode": "USNCFAQ",
+        "type": "2",
+        "date": "2025-02-09T00:00:00",
+        "num_teams": 13,
+        "rank": 5,
+        "alliance": 3,
+        "awards": []
+      }
+    ]
+  },
+  "25812": {
+    "age": 0,
+    "events": [
+      {
+        "eventCode": "USNCGRQ3",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 23,
+        "rank": 22,
+        "alliance": null,
+        "awards": [
+          "Motivate Award 2nd Place"
+        ]
+      },
+      {
+        "eventCode": "USNCGRQ1",
+        "type": "2",
+        "date": "2025-02-02T00:00:00",
+        "num_teams": 21,
+        "rank": 12,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "26120": {
+    "age": 0,
+    "events": [
+      {
+        "eventCode": "USNCGRQ3",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 23,
+        "rank": 11,
+        "alliance": null,
+        "awards": [
+          "Control Award"
+        ]
+      },
+      {
+        "eventCode": "USNCGRQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 24,
+        "rank": 20,
+        "alliance": null,
+        "awards": [
+          "Innovate Award sponsored by RTX 2nd Place"
+        ]
+      }
+    ]
+  },
+  "26338": {
+    "age": 0,
+    "events": [
+      {
+        "eventCode": "USNCGRQ3",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 23,
+        "rank": 18,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "731": {
+    "age": 17,
+    "events": [
+      {
+        "eventCode": "USNCWSQ2",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 24,
+        "rank": 20,
+        "alliance": null,
+        "awards": [
+          "Design Award"
+        ]
+      },
+      {
+        "eventCode": "USNCSAQ2",
+        "type": "2",
+        "date": "2025-02-09T00:00:00",
+        "num_teams": 16,
+        "rank": 12,
+        "alliance": null,
+        "awards": [
+          "Control Award"
+        ]
+      }
+    ]
+  },
+  "5795": {
+    "age": 13,
+    "events": [
+      {
+        "eventCode": "USNCWSQ2",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 24,
+        "rank": 2,
+        "alliance": 2,
+        "awards": [
+          "Inspire Award 3rd Place"
+        ]
+      },
+      {
+        "eventCode": "USNCGRQ1",
+        "type": "2",
+        "date": "2025-02-02T00:00:00",
+        "num_teams": 21,
+        "rank": 7,
+        "alliance": 2,
+        "awards": [
+          "Finalist Alliance - 1st Team Selected",
+          "Think Award"
+        ]
+      },
+      {
+        "eventCode": "USNCCMP",
+        "type": "4",
+        "date": "2025-02-16T00:00:00",
+        "num_teams": 36,
+        "rank": 18,
+        "alliance": null,
+        "awards": [
+          "Control Award"
+        ]
+      }
+    ]
+  },
+  "6183": {
+    "age": 12,
+    "events": [
+      {
+        "eventCode": "USNCWSQ2",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 24,
+        "rank": 23,
+        "alliance": null,
+        "awards": [
+          "Connect Award"
+        ]
+      },
+      {
+        "eventCode": "USNCSAQ1",
+        "type": "2",
+        "date": "2025-02-08T00:00:00",
+        "num_teams": 19,
+        "rank": 16,
+        "alliance": null,
+        "awards": [
+          "Connect Award"
+        ]
+      }
+    ]
+  },
+  "7444": {
+    "age": 11,
+    "events": [
+      {
+        "eventCode": "USNCWSQ2",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 24,
+        "rank": 21,
+        "alliance": null,
+        "awards": [
+          "Connect Award 2nd Place"
+        ]
+      },
+      {
+        "eventCode": "USNCGRQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 24,
+        "rank": 15,
+        "alliance": null,
+        "awards": [
+          "Inspire Award 2nd Place"
+        ]
+      },
+      {
+        "eventCode": "USNCCMP",
+        "type": "4",
+        "date": "2025-02-16T00:00:00",
+        "num_teams": 36,
+        "rank": 35,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "10195": {
+    "age": 9,
+    "events": [
+      {
+        "eventCode": "USNCWSQ2",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 24,
+        "rank": 18,
+        "alliance": null,
+        "awards": [
+          "Inspire Award 2nd Place"
+        ]
+      },
+      {
+        "eventCode": "USNCSAQ2",
+        "type": "2",
+        "date": "2025-02-09T00:00:00",
+        "num_teams": 16,
+        "rank": 6,
+        "alliance": 1,
+        "awards": [
+          "Inspire Award",
+          "Finalist Alliance - 1st Team Selected"
+        ]
+      },
+      {
+        "eventCode": "USNCCMP",
+        "type": "4",
+        "date": "2025-02-16T00:00:00",
+        "num_teams": 36,
+        "rank": 11,
+        "alliance": 4,
+        "awards": [
+          "Innovate Award sponsored by RTX 2nd Place"
+        ]
+      }
+    ]
+  },
+  "13883": {
+    "age": 7,
+    "events": [
+      {
+        "eventCode": "USNCWSQ2",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 24,
+        "rank": 14,
+        "alliance": null,
+        "awards": [
+          "Think Award"
+        ]
+      },
+      {
+        "eventCode": "USNCSAQ1",
+        "type": "2",
+        "date": "2025-02-08T00:00:00",
+        "num_teams": 19,
+        "rank": 18,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "15333": {
+    "age": 6,
+    "events": [
+      {
+        "eventCode": "USNCWSQ2",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 24,
+        "rank": 8,
+        "alliance": 4,
+        "awards": [
+          "Design Award 2nd Place"
+        ]
+      },
+      {
+        "eventCode": "USNCGRQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 24,
+        "rank": 16,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "16328": {
+    "age": 6,
+    "events": [
+      {
+        "eventCode": "USNCWSQ2",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 24,
+        "rank": 16,
+        "alliance": null,
+        "awards": [
+          "Innovate Award sponsored by RTX"
+        ]
+      },
+      {
+        "eventCode": "USNCGRQ1",
+        "type": "2",
+        "date": "2025-02-02T00:00:00",
+        "num_teams": 21,
+        "rank": 9,
+        "alliance": 5,
+        "awards": [
+          "Innovate Award sponsored by RTX"
+        ]
+      }
+    ]
+  },
+  "16461": {
+    "age": 5,
+    "events": [
+      {
+        "eventCode": "USNCWSQ2",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 24,
+        "rank": 6,
+        "alliance": 3,
+        "awards": [
+          "Inspire Award"
+        ]
+      },
+      {
+        "eventCode": "USNCCMP",
+        "type": "4",
+        "date": "2025-02-16T00:00:00",
+        "num_teams": 36,
+        "rank": 27,
+        "alliance": null,
+        "awards": [
+          "Think Award"
+        ]
+      }
+    ]
+  },
+  "20428": {
+    "age": 3,
+    "events": [
+      {
+        "eventCode": "USNCWSQ2",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 24,
+        "rank": 12,
+        "alliance": 6,
+        "awards": [
+          "Motivate Award"
+        ]
+      },
+      {
+        "eventCode": "USNCGRQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 24,
+        "rank": 19,
+        "alliance": 5,
+        "awards": [
+          "Connect Award"
+        ]
+      }
+    ]
+  },
+  "20683": {
+    "age": 3,
+    "events": [
+      {
+        "eventCode": "USNCWSQ2",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 24,
+        "rank": 13,
+        "alliance": null,
+        "awards": []
+      },
+      {
+        "eventCode": "USNCGRQ1",
+        "type": "2",
+        "date": "2025-02-02T00:00:00",
+        "num_teams": 21,
+        "rank": 19,
+        "alliance": null,
+        "awards": [
+          "Design Award 2nd Place"
+        ]
+      }
+    ]
+  },
+  "21829": {
+    "age": 2,
+    "events": [
+      {
+        "eventCode": "USNCWSQ2",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 24,
+        "rank": 1,
+        "alliance": 1,
+        "awards": [
+          "Winning Alliance - Captain",
+          "Innovate Award sponsored by RTX 2nd Place"
+        ]
+      },
+      {
+        "eventCode": "USNCSHQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 21,
+        "rank": 5,
+        "alliance": 1,
+        "awards": [
+          "Inspire Award",
+          "Finalist Alliance - 1st Team Selected"
+        ]
+      },
+      {
+        "eventCode": "USNCCMP",
+        "type": "4",
+        "date": "2025-02-16T00:00:00",
+        "num_teams": 36,
+        "rank": 5,
+        "alliance": 4,
+        "awards": []
+      }
+    ]
+  },
+  "22759": {
+    "age": 2,
+    "events": [
+      {
+        "eventCode": "USNCWSQ2",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 24,
+        "rank": 19,
+        "alliance": null,
+        "awards": [
+          "Think Award 2nd Place"
+        ]
+      },
+      {
+        "eventCode": "USNCGRQ1",
+        "type": "2",
+        "date": "2025-02-02T00:00:00",
+        "num_teams": 21,
+        "rank": 20,
+        "alliance": null,
+        "awards": [
+          "Design Award"
+        ]
+      }
+    ]
+  },
+  "23889": {
+    "age": 1,
+    "events": [
+      {
+        "eventCode": "USNCWSQ2",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 24,
+        "rank": 3,
+        "alliance": 2,
+        "awards": []
+      },
+      {
+        "eventCode": "USNCSHQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 21,
+        "rank": 2,
+        "alliance": 2,
+        "awards": [
+          "Winning Alliance - Captain",
+          "Motivate Award 2nd Place"
+        ]
+      },
+      {
+        "eventCode": "USNCCMP",
+        "type": "4",
+        "date": "2025-02-16T00:00:00",
+        "num_teams": 36,
+        "rank": 8,
+        "alliance": 6,
+        "awards": []
+      }
+    ]
+  },
+  "23890": {
+    "age": 1,
+    "events": [
+      {
+        "eventCode": "USNCWSQ2",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 24,
+        "rank": 17,
+        "alliance": null,
+        "awards": [
+          "Control Award"
+        ]
+      },
+      {
+        "eventCode": "USNCSHQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 21,
+        "rank": 18,
+        "alliance": null,
+        "awards": [
+          "Control Award 2nd Place"
+        ]
+      }
+    ]
+  },
+  "24146": {
+    "age": 1,
+    "events": [
+      {
+        "eventCode": "USNCWSQ2",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 24,
+        "rank": 11,
+        "alliance": 5,
+        "awards": [
+          "Finalist Alliance - 1st Team Selected"
+        ]
+      },
+      {
+        "eventCode": "USNCGRQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 24,
+        "rank": 8,
+        "alliance": 3,
+        "awards": [
+          "Finalist Alliance - 1st Team Selected",
+          "Think Award"
+        ]
+      }
+    ]
+  },
+  "24260": {
+    "age": 1,
+    "events": [
+      {
+        "eventCode": "USNCWSQ2",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 24,
+        "rank": 7,
+        "alliance": 4,
+        "awards": []
+      },
+      {
+        "eventCode": "USNCKIQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 16,
+        "rank": 5,
+        "alliance": 1,
+        "awards": [
+          "Winning Alliance - 1st Team Selected",
+          "Motivate Award"
+        ]
+      },
+      {
+        "eventCode": "USNCCMP",
+        "type": "4",
+        "date": "2025-02-16T00:00:00",
+        "num_teams": 36,
+        "rank": 24,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "24362": {
+    "age": 1,
+    "events": [
+      {
+        "eventCode": "USNCWSQ2",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 24,
+        "rank": null,
+        "alliance": null,
+        "awards": []
+      },
+      {
+        "eventCode": "USNCGRQ1",
+        "type": "2",
+        "date": "2025-02-02T00:00:00",
+        "num_teams": 21,
+        "rank": 15,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "26916": {
+    "age": 0,
+    "events": [
+      {
+        "eventCode": "USNCWSQ2",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 24,
+        "rank": 4,
+        "alliance": 1,
+        "awards": [
+          "Winning Alliance - 1st Team Selected"
+        ]
+      },
+      {
+        "eventCode": "USNCGRQ1",
+        "type": "2",
+        "date": "2025-02-02T00:00:00",
+        "num_teams": 21,
+        "rank": 5,
+        "alliance": 3,
+        "awards": [
+          "Think Award 2nd Place"
+        ]
+      },
+      {
+        "eventCode": "USNCCMP",
+        "type": "4",
+        "date": "2025-02-16T00:00:00",
+        "num_teams": 36,
+        "rank": 25,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "27137": {
+    "age": 0,
+    "events": [
+      {
+        "eventCode": "USNCWSQ2",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 24,
+        "rank": 5,
+        "alliance": 3,
+        "awards": []
+      },
+      {
+        "eventCode": "USNCSAQ1",
+        "type": "2",
+        "date": "2025-02-08T00:00:00",
+        "num_teams": 19,
+        "rank": 5,
+        "alliance": 3,
+        "awards": [
+          "Finalist Alliance - Captain"
+        ]
+      },
+      {
+        "eventCode": "USNCCMP",
+        "type": "4",
+        "date": "2025-02-16T00:00:00",
+        "num_teams": 36,
+        "rank": 20,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "27138": {
+    "age": 0,
+    "events": [
+      {
+        "eventCode": "USNCWSQ2",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 24,
+        "rank": 10,
+        "alliance": 6,
+        "awards": []
+      },
+      {
+        "eventCode": "USNCSHQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 21,
+        "rank": 10,
+        "alliance": 6,
+        "awards": []
+      }
+    ]
+  },
+  "27139": {
+    "age": 0,
+    "events": [
+      {
+        "eventCode": "USNCWSQ2",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 24,
+        "rank": 15,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "27336": {
+    "age": 0,
+    "events": [
+      {
+        "eventCode": "USNCWSQ2",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 24,
+        "rank": 22,
+        "alliance": null,
+        "awards": []
+      },
+      {
+        "eventCode": "USNCSHQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 21,
+        "rank": 6,
+        "alliance": 4,
+        "awards": []
+      }
+    ]
+  },
+  "27443": {
+    "age": 0,
+    "events": [
+      {
+        "eventCode": "USNCWSQ2",
+        "type": "2",
+        "date": "2025-01-26T00:00:00",
+        "num_teams": 24,
+        "rank": 9,
+        "alliance": 5,
+        "awards": [
+          "Finalist Alliance - Captain"
+        ]
+      },
+      {
+        "eventCode": "USNCSHQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 21,
+        "rank": 12,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "11424": {
+    "age": 8,
+    "events": [
+      {
+        "eventCode": "USNCGRQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 24,
+        "rank": 5,
+        "alliance": 2,
+        "awards": [
+          "Control Award 2nd Place"
+        ]
+      },
+      {
+        "eventCode": "USNCSAQ1",
+        "type": "2",
+        "date": "2025-02-08T00:00:00",
+        "num_teams": 19,
+        "rank": 11,
+        "alliance": null,
+        "awards": [
+          "Motivate Award"
+        ]
+      }
+    ]
+  },
+  "12733": {
+    "age": 7,
+    "events": [
+      {
+        "eventCode": "USNCGRQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 24,
+        "rank": 14,
+        "alliance": null,
+        "awards": []
+      },
+      {
+        "eventCode": "USNCSAQ2",
+        "type": "2",
+        "date": "2025-02-09T00:00:00",
+        "num_teams": 16,
+        "rank": 10,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "21360": {
+    "age": 2,
+    "events": [
+      {
+        "eventCode": "USNCGRQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 24,
+        "rank": 6,
+        "alliance": 4,
+        "awards": []
+      },
+      {
+        "eventCode": "USNCSAQ1",
+        "type": "2",
+        "date": "2025-02-08T00:00:00",
+        "num_teams": 19,
+        "rank": 8,
+        "alliance": 3,
+        "awards": [
+          "Finalist Alliance - 1st Team Selected"
+        ]
+      }
+    ]
+  },
+  "21840": {
+    "age": 2,
+    "events": [
+      {
+        "eventCode": "USNCGRQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 24,
+        "rank": 21,
+        "alliance": null,
+        "awards": [
+          "Connect Award 2nd Place"
+        ]
+      },
+      {
+        "eventCode": "USNCGRQ1",
+        "type": "2",
+        "date": "2025-02-02T00:00:00",
+        "num_teams": 21,
+        "rank": 13,
+        "alliance": null,
+        "awards": [
+          "Connect Award"
+        ]
+      }
+    ]
+  },
+  "23165": {
+    "age": 2,
+    "events": [
+      {
+        "eventCode": "USNCGRQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 24,
+        "rank": 11,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "23272": {
+    "age": 1,
+    "events": [
+      {
+        "eventCode": "USNCGRQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 24,
+        "rank": 4,
+        "alliance": 3,
+        "awards": [
+          "Finalist Alliance - Captain",
+          "Control Award"
+        ]
+      },
+      {
+        "eventCode": "USNCSAQ1",
+        "type": "2",
+        "date": "2025-02-08T00:00:00",
+        "num_teams": 19,
+        "rank": 14,
+        "alliance": null,
+        "awards": [
+          "Innovate Award sponsored by RTX"
+        ]
+      }
+    ]
+  },
+  "24098": {
+    "age": 1,
+    "events": [
+      {
+        "eventCode": "USNCGRQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 24,
+        "rank": 7,
+        "alliance": 5,
+        "awards": []
+      },
+      {
+        "eventCode": "USNCSAQ1",
+        "type": "2",
+        "date": "2025-02-08T00:00:00",
+        "num_teams": 19,
+        "rank": 7,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "25908": {
+    "age": 0,
+    "events": [
+      {
+        "eventCode": "USNCGRQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 24,
+        "rank": 24,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "26520": {
+    "age": 0,
+    "events": [
+      {
+        "eventCode": "USNCGRQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 24,
+        "rank": 22,
+        "alliance": null,
+        "awards": []
+      },
+      {
+        "eventCode": "USNCSAQ2",
+        "type": "2",
+        "date": "2025-02-09T00:00:00",
+        "num_teams": 16,
+        "rank": 3,
+        "alliance": 3,
+        "awards": [
+          "Winning Alliance - Captain"
+        ]
+      },
+      {
+        "eventCode": "USNCCMP",
+        "type": "4",
+        "date": "2025-02-16T00:00:00",
+        "num_teams": 36,
+        "rank": 9,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "7083": {
+    "age": 11,
+    "events": [
+      {
+        "eventCode": "USNCKIQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 16,
+        "rank": 2,
+        "alliance": 2,
+        "awards": [
+          "Inspire Award",
+          "Finalist Alliance - Captain"
+        ]
+      },
+      {
+        "eventCode": "USNCRSQ",
+        "type": "2",
+        "date": "2025-02-08T00:00:00",
+        "num_teams": 10,
+        "rank": 2,
+        "alliance": 1,
+        "awards": [
+          "Winning Alliance - 1st Team Selected",
+          "Think Award"
+        ]
+      },
+      {
+        "eventCode": "USNCCMP",
+        "type": "4",
+        "date": "2025-02-16T00:00:00",
+        "num_teams": 36,
+        "rank": 14,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "13735": {
+    "age": 7,
+    "events": [
+      {
+        "eventCode": "USNCKIQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 16,
+        "rank": 10,
+        "alliance": 4,
+        "awards": [
+          "Design Award"
+        ]
+      },
+      {
+        "eventCode": "USNCFAQ",
+        "type": "2",
+        "date": "2025-02-09T00:00:00",
+        "num_teams": 13,
+        "rank": 12,
+        "alliance": 2,
+        "awards": [
+          "Winning Alliance - 1st Team Selected",
+          "Innovate Award sponsored by RTX"
+        ]
+      },
+      {
+        "eventCode": "USNCCMP",
+        "type": "4",
+        "date": "2025-02-16T00:00:00",
+        "num_teams": 36,
+        "rank": 34,
+        "alliance": null,
+        "awards": [
+          "Connect Award 2nd Place",
+          "Compass Award 2nd Place"
+        ]
+      }
+    ]
+  },
+  "15680": {
+    "age": 6,
+    "events": [
+      {
+        "eventCode": "USNCKIQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 16,
+        "rank": 7,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "18251": {
+    "age": 4,
+    "events": [
+      {
+        "eventCode": "USNCKIQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 16,
+        "rank": 14,
+        "alliance": null,
+        "awards": []
+      },
+      {
+        "eventCode": "USNCSAQ1",
+        "type": "2",
+        "date": "2025-02-08T00:00:00",
+        "num_teams": 19,
+        "rank": 12,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "21724": {
+    "age": 2,
+    "events": [
+      {
+        "eventCode": "USNCKIQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 16,
+        "rank": 16,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "21869": {
+    "age": 2,
+    "events": [
+      {
+        "eventCode": "USNCKIQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 16,
+        "rank": 11,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "23303": {
+    "age": 1,
+    "events": [
+      {
+        "eventCode": "USNCKIQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 16,
+        "rank": 9,
+        "alliance": null,
+        "awards": [
+          "Think Award"
+        ]
+      },
+      {
+        "eventCode": "USNCSAQ1",
+        "type": "2",
+        "date": "2025-02-08T00:00:00",
+        "num_teams": 19,
+        "rank": 17,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "27240": {
+    "age": 0,
+    "events": [
+      {
+        "eventCode": "USNCKIQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 16,
+        "rank": 6,
+        "alliance": 3,
+        "awards": []
+      },
+      {
+        "eventCode": "USNCRSQ",
+        "type": "2",
+        "date": "2025-02-08T00:00:00",
+        "num_teams": 10,
+        "rank": 6,
+        "alliance": 2,
+        "awards": [
+          "Finalist Alliance - 1st Team Selected"
+        ]
+      }
+    ]
+  },
+  "5549": {
+    "age": 13,
+    "events": [
+      {
+        "eventCode": "USNCSHQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 21,
+        "rank": 19,
+        "alliance": null,
+        "awards": [
+          "Think Award 2nd Place"
+        ]
+      }
+    ]
+  },
+  "5881": {
+    "age": 12,
+    "events": [
+      {
+        "eventCode": "USNCSHQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 21,
+        "rank": 15,
+        "alliance": null,
+        "awards": [
+          "Innovate Award sponsored by RTX 2nd Place"
+        ]
+      }
+    ]
+  },
+  "14200": {
+    "age": 7,
+    "events": [
+      {
+        "eventCode": "USNCSHQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 21,
+        "rank": 21,
+        "alliance": null,
+        "awards": [
+          "Connect Award"
+        ]
+      },
+      {
+        "eventCode": "USNCSAQ1",
+        "type": "2",
+        "date": "2025-02-08T00:00:00",
+        "num_teams": 19,
+        "rank": 10,
+        "alliance": 4,
+        "awards": [
+          "Design Award"
+        ]
+      }
+    ]
+  },
+  "20086": {
+    "age": 3,
+    "events": [
+      {
+        "eventCode": "USNCSHQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 21,
+        "rank": 13,
+        "alliance": null,
+        "awards": [
+          "Design Award 2nd Place"
+        ]
+      }
+    ]
+  },
+  "27136": {
+    "age": 0,
+    "events": [
+      {
+        "eventCode": "USNCSHQ",
+        "type": "2",
+        "date": "2025-02-01T00:00:00",
+        "num_teams": 21,
+        "rank": 4,
+        "alliance": 4,
+        "awards": [
+          "Design Award"
+        ]
+      },
+      {
+        "eventCode": "USNCSAQ1",
+        "type": "2",
+        "date": "2025-02-08T00:00:00",
+        "num_teams": 19,
+        "rank": 2,
+        "alliance": 2,
+        "awards": []
+      }
+    ]
+  },
+  "3916": {
+    "age": 15,
+    "events": [
+      {
+        "eventCode": "USNCGRQ1",
+        "type": "2",
+        "date": "2025-02-02T00:00:00",
+        "num_teams": 21,
+        "rank": 17,
+        "alliance": null,
+        "awards": [
+          "Motivate Award"
+        ]
+      },
+      {
+        "eventCode": "USNCSAQ1",
+        "type": "2",
+        "date": "2025-02-08T00:00:00",
+        "num_teams": 19,
+        "rank": 13,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "19410": {
+    "age": 3,
+    "events": [
+      {
+        "eventCode": "USNCGRQ1",
+        "type": "2",
+        "date": "2025-02-02T00:00:00",
+        "num_teams": 21,
+        "rank": 4,
+        "alliance": 3,
+        "awards": [
+          "Control Award"
+        ]
+      },
+      {
+        "eventCode": "USNCFAQ",
+        "type": "2",
+        "date": "2025-02-09T00:00:00",
+        "num_teams": 13,
+        "rank": 2,
+        "alliance": 1,
+        "awards": [
+          "Inspire Award",
+          "Finalist Alliance - 1st Team Selected"
+        ]
+      },
+      {
+        "eventCode": "USNCCMP",
+        "type": "4",
+        "date": "2025-02-16T00:00:00",
+        "num_teams": 36,
+        "rank": 7,
+        "alliance": 5,
+        "awards": [
+          "Control Award 2nd Place"
+        ]
+      }
+    ]
+  },
+  "26596": {
+    "age": 0,
+    "events": [
+      {
+        "eventCode": "USNCGRQ1",
+        "type": "2",
+        "date": "2025-02-02T00:00:00",
+        "num_teams": 21,
+        "rank": 8,
+        "alliance": 5,
+        "awards": []
+      }
+    ]
+  },
+  "25852": {
+    "age": 0,
+    "events": [
+      {
+        "eventCode": "USNCRSQ",
+        "type": "2",
+        "date": "2025-02-08T00:00:00",
+        "num_teams": 10,
+        "rank": 10,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "27595": {
+    "age": 0,
+    "events": [
+      {
+        "eventCode": "USNCSAQ1",
+        "type": "2",
+        "date": "2025-02-08T00:00:00",
+        "num_teams": 19,
+        "rank": 15,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "9063": {
+    "age": 10,
+    "events": [
+      {
+        "eventCode": "USNCFAQ",
+        "type": "2",
+        "date": "2025-02-09T00:00:00",
+        "num_teams": 13,
+        "rank": 10,
+        "alliance": null,
+        "awards": [
+          "Control Award"
+        ]
+      }
+    ]
+  },
+  "16250": {
+    "age": 6,
+    "events": [
+      {
+        "eventCode": "USNCFAQ",
+        "type": "2",
+        "date": "2025-02-09T00:00:00",
+        "num_teams": 13,
+        "rank": 13,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "21779": {
+    "age": 2,
+    "events": [
+      {
+        "eventCode": "USNCFAQ",
+        "type": "2",
+        "date": "2025-02-09T00:00:00",
+        "num_teams": 13,
+        "rank": 8,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  },
+  "8947": {
+    "age": 10,
+    "events": [
+      {
+        "eventCode": "USNCSAQ2",
+        "type": "2",
+        "date": "2025-02-09T00:00:00",
+        "num_teams": 16,
+        "rank": 2,
+        "alliance": 2,
+        "awards": []
+      }
+    ]
+  },
+  "27051": {
+    "age": 0,
+    "events": [
+      {
+        "eventCode": "USNCSAQ2",
+        "type": "2",
+        "date": "2025-02-09T00:00:00",
+        "num_teams": 16,
+        "rank": 11,
+        "alliance": null,
+        "awards": []
+      }
+    ]
+  }
+}
