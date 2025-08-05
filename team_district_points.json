@@ -1,166 +1,250 @@
 {
-  "772": {
-    "qualification_points": 14,
-    "alliance_bonus": 18,
-    "playoff_bonus": 20,
-    "award_bonus": 60,
-    "total": 112
-  },
-  "11444": {
-    "qualification_points": 12,
-    "alliance_bonus": 19,
-    "playoff_bonus": 40,
-    "award_bonus": 30,
-    "total": 101
-  },
-  "28656": {
+  "22377": {
     "qualification_points": 15,
     "alliance_bonus": 19,
-    "playoff_bonus": 40,
-    "award_bonus": 12,
-    "total": 86
-  },
-  "18984": {
-    "qualification_points": 12,
-    "alliance_bonus": 20,
-    "playoff_bonus": 10,
-    "award_bonus": 12,
-    "total": 54
-  },
-  "25068": {
-    "qualification_points": 11,
-    "alliance_bonus": 18,
     "playoff_bonus": 20,
-    "award_bonus": 0,
-    "total": 49
+    "award_bonus": 60,
+    "total": 114
   },
-  "13900": {
+  "21836": {
     "qualification_points": 16,
     "alliance_bonus": 20,
-    "playoff_bonus": 10,
-    "award_bonus": 0,
-    "total": 46
+    "playoff_bonus": 40,
+    "award_bonus": 6,
+    "total": 82
   },
-  "23345": {
+  "24064": {
+    "qualification_points": 14,
+    "alliance_bonus": 20,
+    "playoff_bonus": 40,
+    "award_bonus": 0,
+    "total": 74
+  },
+  "5064": {
+    "qualification_points": 15,
+    "alliance_bonus": 18,
+    "playoff_bonus": 10,
+    "award_bonus": 30,
+    "total": 73
+  },
+  "21502": {
+    "qualification_points": 12,
+    "alliance_bonus": 19,
+    "playoff_bonus": 20,
+    "award_bonus": 12,
+    "total": 63
+  },
+  "2827": {
+    "qualification_points": 13,
+    "alliance_bonus": 18,
+    "playoff_bonus": 10,
+    "award_bonus": 6,
+    "total": 47
+  },
+  "10195": {
+    "qualification_points": 12,
+    "alliance_bonus": 17,
+    "playoff_bonus": 5,
+    "award_bonus": 6,
+    "total": 40
+  },
+  "21351": {
+    "qualification_points": 11,
+    "alliance_bonus": 15,
+    "playoff_bonus": 0,
+    "award_bonus": 12,
+    "total": 38
+  },
+  "21829": {
     "qualification_points": 14,
     "alliance_bonus": 17,
-    "playoff_bonus": 0,
-    "award_bonus": 12,
-    "total": 43
-  },
-  "327": {
-    "qualification_points": 11,
-    "alliance_bonus": 16,
-    "playoff_bonus": 0,
-    "award_bonus": 12,
-    "total": 39
-  },
-  "28370": {
-    "qualification_points": 10,
-    "alliance_bonus": 15,
     "playoff_bonus": 5,
     "award_bonus": 0,
-    "total": 30
+    "total": 36
   },
-  "23816": {
+  "19410": {
     "qualification_points": 13,
     "alliance_bonus": 16,
     "playoff_bonus": 0,
-    "award_bonus": 0,
-    "total": 29
+    "award_bonus": 6,
+    "total": 35
   },
-  "10021": {
-    "qualification_points": 9,
-    "alliance_bonus": 17,
+  "23889": {
+    "qualification_points": 13,
+    "alliance_bonus": 15,
     "playoff_bonus": 0,
     "award_bonus": 0,
-    "total": 26
+    "total": 28
   },
-  "11454": {
-    "qualification_points": 3,
-    "alliance_bonus": 15,
-    "playoff_bonus": 5,
+  "5309": {
+    "qualification_points": 11,
+    "alliance_bonus": 16,
+    "playoff_bonus": 0,
     "award_bonus": 0,
+    "total": 27
+  },
+  "6078": {
+    "qualification_points": 10,
+    "alliance_bonus": 0,
+    "playoff_bonus": 0,
+    "award_bonus": 15,
+    "total": 25
+  },
+  "17346": {
+    "qualification_points": 11,
+    "alliance_bonus": 0,
+    "playoff_bonus": 0,
+    "award_bonus": 12,
     "total": 23
   },
-  "23855": {
-    "qualification_points": 3,
+  "5795": {
+    "qualification_points": 10,
     "alliance_bonus": 0,
     "playoff_bonus": 0,
     "award_bonus": 12,
-    "total": 15
+    "total": 22
   },
-  "9121": {
-    "qualification_points": 2,
+  "16461": {
+    "qualification_points": 7,
     "alliance_bonus": 0,
     "playoff_bonus": 0,
     "award_bonus": 12,
-    "total": 14
+    "total": 19
   },
-  "24250": {
-    "qualification_points": 2,
+  "8569": {
+    "qualification_points": 6,
     "alliance_bonus": 0,
     "playoff_bonus": 0,
     "award_bonus": 12,
-    "total": 14
+    "total": 18
   },
-  "17621": {
+  "2901": {
+    "qualification_points": 5,
+    "alliance_bonus": 0,
+    "playoff_bonus": 0,
+    "award_bonus": 12,
+    "total": 17
+  },
+  "7105": {
+    "qualification_points": 6,
+    "alliance_bonus": 0,
+    "playoff_bonus": 0,
+    "award_bonus": 6,
+    "total": 12
+  },
+  "16072": {
+    "qualification_points": 9,
+    "alliance_bonus": 0,
+    "playoff_bonus": 0,
+    "award_bonus": 3,
+    "total": 12
+  },
+  "26520": {
+    "qualification_points": 12,
+    "alliance_bonus": 0,
+    "playoff_bonus": 0,
+    "award_bonus": 0,
+    "total": 12
+  },
+  "7083": {
+    "qualification_points": 11,
+    "alliance_bonus": 0,
+    "playoff_bonus": 0,
+    "award_bonus": 0,
+    "total": 11
+  },
+  "13735": {
+    "qualification_points": 5,
+    "alliance_bonus": 0,
+    "playoff_bonus": 0,
+    "award_bonus": 6,
+    "total": 11
+  },
+  "24078": {
+    "qualification_points": 10,
+    "alliance_bonus": 0,
+    "playoff_bonus": 0,
+    "award_bonus": 0,
+    "total": 10
+  },
+  "3587": {
     "qualification_points": 9,
     "alliance_bonus": 0,
     "playoff_bonus": 0,
     "award_bonus": 0,
     "total": 9
   },
-  "24048": {
+  "25863": {
+    "qualification_points": 9,
+    "alliance_bonus": 0,
+    "playoff_bonus": 0,
+    "award_bonus": 0,
+    "total": 9
+  },
+  "27137": {
+    "qualification_points": 9,
+    "alliance_bonus": 0,
+    "playoff_bonus": 0,
+    "award_bonus": 0,
+    "total": 9
+  },
+  "9990": {
     "qualification_points": 8,
     "alliance_bonus": 0,
     "playoff_bonus": 0,
     "award_bonus": 0,
     "total": 8
   },
-  "24911": {
+  "19921": {
     "qualification_points": 8,
     "alliance_bonus": 0,
     "playoff_bonus": 0,
     "award_bonus": 0,
     "total": 8
   },
-  "3641": {
+  "24260": {
+    "qualification_points": 8,
+    "alliance_bonus": 0,
+    "playoff_bonus": 0,
+    "award_bonus": 0,
+    "total": 8
+  },
+  "26916": {
+    "qualification_points": 8,
+    "alliance_bonus": 0,
+    "playoff_bonus": 0,
+    "award_bonus": 0,
+    "total": 8
+  },
+  "23423": {
     "qualification_points": 7,
     "alliance_bonus": 0,
     "playoff_bonus": 0,
     "award_bonus": 0,
     "total": 7
   },
-  "14914": {
+  "23574": {
+    "qualification_points": 7,
+    "alliance_bonus": 0,
+    "playoff_bonus": 0,
+    "award_bonus": 0,
+    "total": 7
+  },
+  "8300": {
     "qualification_points": 6,
     "alliance_bonus": 0,
     "playoff_bonus": 0,
     "award_bonus": 0,
     "total": 6
   },
-  "23360": {
-    "qualification_points": 6,
+  "7444": {
+    "qualification_points": 4,
     "alliance_bonus": 0,
     "playoff_bonus": 0,
     "award_bonus": 0,
-    "total": 6
+    "total": 4
   },
-  "15773": {
-    "qualification_points": 5,
-    "alliance_bonus": 0,
-    "playoff_bonus": 0,
-    "award_bonus": 0,
-    "total": 5
-  },
-  "24103": {
-    "qualification_points": 5,
-    "alliance_bonus": 0,
-    "playoff_bonus": 0,
-    "award_bonus": 0,
-    "total": 5
-  },
-  "25970": {
+  "15707": {
     "qualification_points": 4,
     "alliance_bonus": 0,
     "playoff_bonus": 0,

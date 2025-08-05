@@ -13,7 +13,7 @@ HEADERS = {"Authorization": f"Basic {constants.API_TOKEN}"}
 BASE_URL = "https://ftc-api.firstinspires.org/v2.0"
 
 SEASON = 2024 # Change to the desired season
-EVENT_CODE = "USSCCMP" # Change to the desired event code
+EVENT_CODE = "USNCCMP" # Change to the desired event code
 
 
 def get_json(url, cache_file=None):
@@ -230,8 +230,8 @@ for team_num, stats in team_results.items():
     event_results[team_num]["events"].append(event_entry)
 
 # --- Now run advancement points calculations ---
-def qualification_points(rank, num_teams):
-    return math.floor(2 + 14 * ((num_teams - rank) / (num_teams - 1)))
+def qualification_points(rank, num_teams, alpha=1.07):
+    return math.ceil(erfinv((num_teams - 2 * rank + 2) / (alpha * num_teams)) * (7 / (erfinv(1 /  alpha))) + 9)
 
 def calculate_district_points(event_results):
     team_points = {}
